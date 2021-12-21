@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YoungsunKim%20&fontSize=90&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YoungsunKim%20&fontSize=90&fontColor=333)
 
 ✨  Skills
 ---
