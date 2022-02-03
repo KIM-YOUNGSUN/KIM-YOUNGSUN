@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YoungsunKim%20&fontSize=90&fontColor=333)
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKIM-YOUNGSUN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=YoungsunKim%20&fontSize=80&fontColor=333)
  
 
 ✨  Skills
@@ -34,11 +32,11 @@ Tools <br />
 
 👩 Portfolio
 ---
+👉 
 
 
 ☎ Contact Me
 ---
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+<img src="https://img.shields.io/badge/sgi01272@gmail.com-f24e1e?style=flat-square&logo=Gmail&logoColor=white"/> 
 
