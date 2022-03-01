@@ -32,7 +32,7 @@ Tools <br />
 
 👩 Portfolio
 ---
-<a href="https://kim-youngsun.github.io/hermes_project/">👉Heremes Project</a> <br />
+<a href="https://kim-youngsun.github.io/hermes_project/">👉Hermes Project</a> <br />
 <a href="https://kim-youngsun.github.io/kys_portfolio/">👉Portfolio</a>
 
 
